@@ -6,3 +6,5 @@ This is the Pytorch implement of [CVPR 2016 paper on Context Encoders](http://cs
 ![result](https://github.com/BoyuanJiang/context_encoder_pytorch/blob/master/val_recon_samples.png)
 
 We have reference this [implementation](https://github.com/BoyuanJiang/context_encoder_pytorch) and fine tuning, we also fix some bug of the original Author implementation
+
+All you have to do is run `Execute.ipynb`
