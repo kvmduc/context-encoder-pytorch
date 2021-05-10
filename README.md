@@ -5,4 +5,4 @@ This is the Pytorch implement of [CVPR 2016 paper on Context Encoders](http://cs
 ![corrupted](https://github.com/BoyuanJiang/context_encoder_pytorch/blob/master/val_cropped_samples.png)
 ![result](https://github.com/BoyuanJiang/context_encoder_pytorch/blob/master/val_recon_samples.png)
 
-We have reference and fine tuning, we also fix some bug of the original Author implementation
+We have reference this [implementation](https://github.com/BoyuanJiang/context_encoder_pytorch) and fine tuning, we also fix some bug of the original Author implementation
